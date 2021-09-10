@@ -1,0 +1,10 @@
+pyTelegramBotAPI
+spotipy
+scikit-learn
+pydub
+beautifulsoup4
+pandas
+annoy
+numpy
+librosa
+requests
